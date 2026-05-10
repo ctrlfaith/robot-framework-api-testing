@@ -128,4 +128,4 @@ Both projects test the same Restful Booker API with identical coverage (22 test 
 
 ## 👨‍💻 Author
 **Name:** Phuriphatthanachai Rattanatham  
-**GitHub:** [@ctrlfaith](https://github.com/ctrlfaith)
+**GitHub:** [@ctrlfaith](https://github.com/ctrlfaith) 
